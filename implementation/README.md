@@ -10,7 +10,7 @@
 ## 프로그래머스
 |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"></a> | LV | <a href="./solution/두수의곱.cpp"></a> |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181951" target="_blank">a와 b 출력하기</a> | LV0 | <a href="./solution/a와 b 출력하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181917" target="_blank">간단한 논리 연산</a> | LV0 | <a href="./solution/간단한 논리 연산.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181915" target="_blank">글자 이어 붙여 문자열 만들기</a> | LV0 | <a href="./solution/글자 이어 붙여 문자열 만들기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank">나머지 구하기</a> | LV0 | <a href="./solution/나머지구하기.cpp">바로가기</a> |
