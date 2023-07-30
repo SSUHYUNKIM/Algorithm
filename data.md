@@ -1,5 +1,6 @@
 | 난이도 | 그림 |
 |-----| ----- |
+| sprout | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> |
 | b1 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 | b2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
 | b3 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
