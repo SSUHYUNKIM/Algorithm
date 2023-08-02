@@ -5,7 +5,7 @@
 ## 백준
 |          순번          |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a> | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./solution/15649.cpp"></a> |
+| 00 | <a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a> | <a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./solution/15649.cpp">바로가기</a> |
 | 01 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a> | <a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./solution/15650.cpp"></a> |
 | 02 | <a href="https://www.acmicpc.net/problem/15651" target="_blank">15651</a> | <a href="https://www.acmicpc.net/problem/15651" target="_blank">N과 M (3)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./solution/15651.cpp"></a> |
 | 03 | <a href="https://www.acmicpc.net/problem/15652" target="_blank">15652</a> | <a href="https://www.acmicpc.net/problem/15652" target="_blank">N과 M (4)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./solution/15652.cpp"></a> |
