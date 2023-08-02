@@ -27,3 +27,6 @@ int main()
 
     return 0;
 }
+
+getline(cin, str);
+cin.eof();
