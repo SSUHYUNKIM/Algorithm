@@ -6,6 +6,7 @@
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2393" target="_blank">2393</a> | <a href="https://www.acmicpc.net/problem/2393" target="_blank">Rook</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="./solution/2393.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/3765" target="_blank">3765</a> | <a href="https://www.acmicpc.net/problem/3765" target="_blank">Celebrity jeopardy</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./solution/3765.cpp">바로가기</a> |
 
 ## 프로그래머스
 |        문제 이름         |         난이도          |        풀이 링크         |          
