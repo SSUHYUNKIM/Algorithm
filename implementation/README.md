@@ -19,8 +19,9 @@
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181915" target="_blank">글자 이어 붙여 문자열 만들기</a> | LV0 | <a href="./solution/글자 이어 붙여 문자열 만들기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank">나머지 구하기</a> | LV0 | <a href="./solution/나머지구하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank">두 수의 곱</a> | LV0 | <a href="./solution/두수의곱.cpp">바로가기</a> |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181950" target="_blank">문자열 반복해서 출력하기</a> | LV0 | <a href="./solution/문자열 반복해서 출력하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181952" target="_blank">문자열 출력하기</a> | LV0 | <a href="./solution/문자열 출력하기.cpp">바로가기</a> |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181916" target="_blank">주사위 게임 3</a> | LV0 | <a href="./solution/주사위 게임 3.cpp"></a> |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181916" target="_blank">주사위 게임 3</a> | LV0 | <a href="./solution/주사위 게임 3.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944" target="_blank">평균 구하기</a> | LV1 | <a href="./solution/평균구하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"></a> | LV | <a href="./solution/두수의곱.cpp"></a> |
 
