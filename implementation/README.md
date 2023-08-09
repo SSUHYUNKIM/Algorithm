@@ -29,5 +29,5 @@
 ## LeetCode
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
-| 1 | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a> | Easy | <a href="./solution/Leet1.cpp"></a> |
+| 1 | <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a> | Easy | <a href="./solution/Leet1.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120804" target="_blank"></a> |  | <a href="./solution/두수의곱.cpp"></a> |
