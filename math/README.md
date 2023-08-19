@@ -16,9 +16,9 @@
 | <a href="https://www.acmicpc.net/problem/2588" target="_blank">2588</a> | <a href="https://www.acmicpc.net/problem/2588" target="_blank">곱셈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./solution/2588.cpp">바로가기</a> |
 
 ## 프로그래머스
-|          순번          |        문제 이름         |         난이도          |        풀이 링크         |          
-| :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120810" target="_blank"></a> | LV | <a href="./solution/나머지구하기.cpp"></a> |
+|        문제 이름         |         난이도          |        풀이 링크         |          
+| :-----: | :-----: | :-----: |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181947" target="_blank">덧셈식 출력하기</a> | LV0 | <a href="./solution/덧셈식 출력하기.cpp"></a> |
 
 
 ## LeetCode
