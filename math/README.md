@@ -8,6 +8,7 @@
 | <a href="https://www.acmicpc.net/problem/1000" target="_blank">1000</a> | <a href="https://www.acmicpc.net/problem/1000" target="_blank">A+B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/1000.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1001" target="_blank">1001</a> | <a href="https://www.acmicpc.net/problem/1001" target="_blank">A/B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/1008.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1008" target="_blank">1008</a> | <a href="https://www.acmicpc.net/problem/1008" target="_blank">A-B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/1001.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/10869" target="_blank">10869</a> | <a href="https://www.acmicpc.net/problem/10869" target="_blank">사칙연산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/10869.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10998" target="_blank">10998</a> | <a href="https://www.acmicpc.net/problem/10998" target="_blank">A×B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/10998.cpp">바로가기</a> |
 
 ## 프로그래머스
