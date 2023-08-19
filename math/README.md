@@ -10,6 +10,7 @@
 | <a href="https://www.acmicpc.net/problem/1008" target="_blank">1008</a> | <a href="https://www.acmicpc.net/problem/1008" target="_blank">A-B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/1001.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10869" target="_blank">10869</a> | <a href="https://www.acmicpc.net/problem/10869" target="_blank">사칙연산</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/10869.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10998" target="_blank">10998</a> | <a href="https://www.acmicpc.net/problem/10998" target="_blank">A×B</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/10998.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/10430" target="_blank">10430</a> | <a href="https://www.acmicpc.net/problem/10430" target="_blank">나머지</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="./solution/10430.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/18108" target="_blank">18108</a> | <a href="https://www.acmicpc.net/problem/18108" target="_blank">1998년생인 내가 태국에서는 2541년생?!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="./solution/18108.cpp">바로가기</a> |
 
 ## 프로그래머스
