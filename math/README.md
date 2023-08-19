@@ -15,15 +15,6 @@
 | <a href="https://www.acmicpc.net/problem/18108" target="_blank">18108</a> | <a href="https://www.acmicpc.net/problem/18108" target="_blank">1998년생인 내가 태국에서는 2541년생?!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="./solution/18108.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2588" target="_blank">2588</a> | <a href="https://www.acmicpc.net/problem/2588" target="_blank">곱셈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./solution/2588.cpp">바로가기</a> |
 
-## 프로그래머스
-|        문제 이름         |         난이도          |        풀이 링크         |          
-| :-----: | :-----: | :-----: |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181947" target="_blank">덧셈식 출력하기</a> | LV0 | <a href="./solution/덧셈식 출력하기.cpp">바로가기</a> |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181943" target="_blank">문자열 겹쳐쓰기</a> | LV0 | <a href="./solution/문자열 겹쳐쓰기.cpp">바로가기</a> |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181945" target="_blank">문자열 돌리기</a> | LV0 | <a href="./solution/문자열 돌리기.cpp">바로가기</a> |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181946" target="_blank">문자열 붙여서 출력하기</a> | LV0 | <a href="./solution/문자열 붙여서 출력하기.cpp">바로가기</a> |
-| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181944" target="_blank">홀짝 구분하기</a> | LV0 | <a href="./solution/홀짝 구분하기.cpp">바로가기</a> |
-
 
 ## LeetCode
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
