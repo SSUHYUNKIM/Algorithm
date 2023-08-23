@@ -17,6 +17,7 @@
 | <a href="https://www.acmicpc.net/problem/25314" target="_blank">25314</a> | <a href="https://www.acmicpc.net/problem/25314" target="_blank">코딩은 체육과목 입니다</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="./solution/25314.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1264" target="_blank">1264</a> | <a href="https://www.acmicpc.net/problem/1264" target="_blank">모음의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./solution/1264.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2083" target="_blank">2083</a> | <a href="https://www.acmicpc.net/problem/2083" target="_blank">럭비 클럽</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./solution/2083.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/2439" target="_blank">2439</a> | <a href="https://www.acmicpc.net/problem/2439" target="_blank">별 찍기 - 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./solution/2439.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3765" target="_blank">3765</a> | <a href="https://www.acmicpc.net/problem/3765" target="_blank">Celebrity jeopardy</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./solution/3765.cpp">바로가기</a> |
 
 ## LeetCode
