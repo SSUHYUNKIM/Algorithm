@@ -6,6 +6,7 @@
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/1330" target="_blank">1330</a> | <a href="https://www.acmicpc.net/problem/1330" target="_blank">두 수 비교하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/1330.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/2438" target="_blank">2438</a> | <a href="https://www.acmicpc.net/problem/2438" target="_blank">별 찍기 - 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/2438.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2557" target="_blank">2557</a> | <a href="https://www.acmicpc.net/problem/2557" target="_blank">Hello World</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/2557.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/9498" target="_blank">9498</a> | <a href="https://www.acmicpc.net/problem/9498" target="_blank">시험 성적</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/9498.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10171" target="_blank">10171</a> | <a href="https://www.acmicpc.net/problem/10171" target="_blank">고양이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/sprout.svg"/> | <a href="./solution/10171.cpp">바로가기</a> |
