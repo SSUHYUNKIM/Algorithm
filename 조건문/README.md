@@ -2,6 +2,7 @@
 
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181931" target="_blank">181931</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181931" target="_blank">등차수열의 특정한 항만 더하기</a> | LV0 | <a href="./solution/181931.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181932" target="_blank">181932</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181932" target="_blank">코드 처리하기</a> | LV0 | <a href="./solution/181932.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181933" target="_blank">181933</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181933" target="_blank">flag에 따라 다른 값 반환하기</a> | LV0 | <a href="./solution/181933.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181934" target="_blank">181934</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181934" target="_blank">조건 문자열</a> | LV0 | <a href="./solution/181934.cpp">바로가기</a> |
