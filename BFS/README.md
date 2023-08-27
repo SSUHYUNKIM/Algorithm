@@ -1,4 +1,4 @@
-# Math (수학)
+# BFS
 
 [메인으로 돌아가기](https://github.com/SSUHYUNKIM/Algorithm)
 
