@@ -1,7 +1,7 @@
 ## 출력
 
-|        문제 이름         |         난이도          |        풀이 링크         |          
-| :-----: | :-----: | :-----: |
+|        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
+| :-----: | :-----: | :-----: | :-----: |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181937" target="_blank">n의 배수</a> | LV0 | <a href="./solution/n의 배수.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181936" target="_blank">공배수</a> | LV0 | <a href="./solution/공배수.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181939" target="_blank">더 크게 합치기</a> | LV0 | <a href="./solution/더 크게 합치기.cpp">바로가기</a> |

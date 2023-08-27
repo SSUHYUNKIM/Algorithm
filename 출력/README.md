@@ -1,7 +1,7 @@
 ## 출력
 
-|        문제 이름         |         난이도          |        풀이 링크         |          
-| :-----: | :-----: | :-----: |
+|        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
+| :-----: | :-----: | :-----: | :-----: |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181951" target="_blank">a와 b 출력하기</a> | LV0 | <a href="./solution/a와 b 출력하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181949" target="_blank">대소문자 바꿔서 출력하기</a> | LV0 | <a href="./solution/대소문자 바꿔서 출력하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181947" target="_blank">덧셈식 출력하기</a> | LV0 | <a href="./solution/덧셈식 출력하기.cpp">바로가기</a> |
