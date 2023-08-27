@@ -16,7 +16,7 @@
 
 | 순번 | 태그                | 바로가기    | 
 | :--: | :-----------------: | :------:  |
-| 00 | 문자열 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/README.md) |
+| 00 | 문자열 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
 | 01 | 반복문 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/README.md) |
 | 02 | 연산 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/%EC%97%B0%EC%82%B0/README.md) |
 | 03 | 조건문 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8/README.md) |
