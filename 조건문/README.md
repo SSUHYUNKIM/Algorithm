@@ -2,6 +2,7 @@
 
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181928" target="_blank">181928</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181928" target="_blank">이어 붙인 수</a> | LV0 | <a href="./solution/181928.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181929" target="_blank">181929</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181929" target="_blank">원소들의 곱과 합</a> | LV0 | <a href="./solution/181929.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181930" target="_blank">181930</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181930" target="_blank">주사위 게임 2</a> | LV0 | <a href="./solution/181930.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181931" target="_blank">181931</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181931" target="_blank">등차수열의 특정한 항만 더하기</a> | LV0 | <a href="./solution/181931.cpp">바로가기</a> |
