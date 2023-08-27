@@ -3,5 +3,6 @@
 |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181943" target="_blank">문자열 겹쳐쓰기</a> | LV0 | <a href="./solution/문자열 겹쳐쓰기.cpp">바로가기</a> |
+| <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181940" target="_blank">문자열 곱하기</a> | LV0 | <a href="./solution/문자열 곱하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181941" target="_blank">문자 리스트를 문자열로 변환하기</a> | LV0 | <a href="./solution/문자 리스트를 문자열로 변환하기.cpp">바로가기</a> |
 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181942" target="_blank">문자열 섞기</a> | LV0 | <a href="./solution/문자열 섞기.cpp">바로가기</a> |
