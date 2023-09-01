@@ -30,10 +30,6 @@
 | <a href="https://www.acmicpc.net/problem/10818" target="_blank">10818</a> | <a href="https://www.acmicpc.net/problem/10818" target="_blank">최소, 최대</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./solution/10818.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3052" target="_blank">3052</a> | <a href="https://www.acmicpc.net/problem/3052" target="_blank">나머지</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./solution/3052.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1546" target="_blank">1546</a> | <a href="https://www.acmicpc.net/problem/1546" target="_blank">평균</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./solution/1546.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/11005" target="_blank">11005</a> | <a href="https://www.acmicpc.net/problem/11005" target="_blank">진법 변환 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <a href="./solution/11005.cpp">바로가기</a> |
 
-
-## LeetCode
-|        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
-| :-----: | :-----: | :-----: | :-----: |
-| 9 | <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">Palindrome Number</a> | Easy | <a href="./solution/Leet9.cpp">바로가기</a> |
 
