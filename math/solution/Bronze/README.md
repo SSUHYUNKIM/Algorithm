@@ -29,6 +29,7 @@
 | <a href="https://www.acmicpc.net/problem/2884" target="_blank">2884</a> | <a href="https://www.acmicpc.net/problem/2884" target="_blank">알람 시계</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2884.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2903" target="_blank">2903</a> | <a href="https://www.acmicpc.net/problem/2903" target="_blank">중앙 이동 알고리즘</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2903.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10818" target="_blank">10818</a> | <a href="https://www.acmicpc.net/problem/10818" target="_blank">최소, 최대</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/10818.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/15894" target="_blank">15894</a> | <a href="https://www.acmicpc.net/problem/15894" target="_blank">수학은 체육과목 입니다</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/15894.cpp">바로가기</a> |
 
 ## 백준(Bronze2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
