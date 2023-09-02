@@ -12,6 +12,7 @@
 | <a href="https://www.acmicpc.net/problem/11021" target="_blank">11021</a> | <a href="https://www.acmicpc.net/problem/11021" target="_blank">A+B - 7</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze5/11021.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/11022" target="_blank">11022</a> | <a href="https://www.acmicpc.net/problem/11022" target="_blank">A+B - 8</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze5/11022.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/18108" target="_blank">18108</a> | <a href="https://www.acmicpc.net/problem/18108" target="_blank">1998년생인 내가 태국에서는 2541년생?!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze5/18108.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/27323" target="_blank">27323</a> | <a href="https://www.acmicpc.net/problem/27323" target="_blank">직사각형</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze5/27323.cpp">바로가기</a> |
 
 ## 백준(Bronze4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
