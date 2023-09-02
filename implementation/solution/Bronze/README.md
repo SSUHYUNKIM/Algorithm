@@ -9,6 +9,7 @@
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2393" target="_blank">2393</a> | <a href="https://www.acmicpc.net/problem/2393" target="_blank">Rook</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze5/2393.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10926" target="_blank">10926</a> | <a href="https://www.acmicpc.net/problem/10926" target="_blank">??!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze5/10926.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/24262" target="_blank">24262</a> | <a href="https://www.acmicpc.net/problem/24262" target="_blank">알고리즘 수업 - 알고리즘의 수행 시간 1</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze5/24262.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/25314" target="_blank">25314</a> | <a href="https://www.acmicpc.net/problem/25314" target="_blank">코딩은 체육과목 입니다</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze5/25314.cpp">바로가기</a> |
 
 ## 백준(Bronze4)
