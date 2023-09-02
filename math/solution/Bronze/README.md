@@ -34,6 +34,7 @@
 | <a href="https://www.acmicpc.net/problem/14215" target="_blank">14215</a> | <a href="https://www.acmicpc.net/problem/14215" target="_blank">세 막대</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/14215.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/15894" target="_blank">15894</a> | <a href="https://www.acmicpc.net/problem/15894" target="_blank">수학은 체육과목 입니다</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/15894.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/24264" target="_blank">24264</a> | <a href="https://www.acmicpc.net/problem/24264" target="_blank">알고리즘 수업 - 알고리즘의 수행 시간 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/24264.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/24265" target="_blank">24265</a> | <a href="https://www.acmicpc.net/problem/24265" target="_blank">알고리즘 수업 - 알고리즘의 수행 시간 4</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/24265.cpp">바로가기</a> |
 
 ## 백준(Bronze2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
