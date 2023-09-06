@@ -1,12 +1,13 @@
 #include <iostream>
-
+#include <algorithm>
 using namespace std;
 
 int A, B, C;
 
 int main()
 {
-    ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
     cin >> A >> B >> C;
 
     if(A == B && B == C)
@@ -16,6 +17,7 @@ int main()
     else if(B == C)
         cout << 1000 + B * 100;
     else
-        cout << max(A, max(B, C)) * 100;
+        cout << max({A,B,C}) * 100;
+
     return 0;
 }
