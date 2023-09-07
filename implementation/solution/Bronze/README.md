@@ -42,6 +42,7 @@
 ## 백준(Bronze2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/10093" target="_blank">10093</a> | <a href="https://www.acmicpc.net/problem/10093" target="_blank">숫자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/10093.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10813" target="_blank">10813</a> | <a href="https://www.acmicpc.net/problem/10813" target="_blank">공 바꾸기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/10813.cpp">바로가기</a> |
 
 ## 백준(Bronze1)
