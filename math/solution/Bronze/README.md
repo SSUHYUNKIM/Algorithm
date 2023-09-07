@@ -39,6 +39,7 @@
 ## 백준(Bronze2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1267" target="_blank">1267</a> | <a href="https://www.acmicpc.net/problem/1267" target="_blank">핸드폰 요금</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze2/1267.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3052" target="_blank">3052</a> | <a href="https://www.acmicpc.net/problem/3052" target="_blank">나머지</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze2/3052.cpp">바로가기</a> |
 
 ## 백준(Bronze1)
