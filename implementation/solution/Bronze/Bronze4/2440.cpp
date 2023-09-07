@@ -1,18 +1,19 @@
 #include <iostream>
 using namespace std;
 
-int T, A, B;
+int N;
 
 int main()
 {
     ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
-    cin >> T;
+    cin >> N;
 
-    for(int i = 0; i < T; i++)
+    for(int i = N; i > 0; i--)
     {
-        cin >> A >> B;
-        cout << A + B << '\n';
+        for(int j = 0; j < i; j++)
+            cout << "*";
+        cout << '\n';
     }
 
     return 0;

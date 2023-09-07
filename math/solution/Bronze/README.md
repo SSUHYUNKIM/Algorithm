@@ -17,7 +17,7 @@
 ## 백준(Bronze4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
-| <a href="https://www.acmicpc.net/problem/2480" target="_blank">2480</a> | <a href="https://www.acmicpc.net/problem/2480" target="_blank">주사위 세개</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze4/2480.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/2480" target="_blank">2480</a> | <a href="https://www.acmicpc.net/problem/2480" target="_blank">별 찍기 - 3</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze4/2480.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/25304" target="_blank">25304</a> | <a href="https://www.acmicpc.net/problem/25304" target="_blank">영수증</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze4/25304.cpp">바로가기</a> |
 
 ## 백준(Bronze3)

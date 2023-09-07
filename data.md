@@ -18,12 +18,11 @@
 | g5 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
-    ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
     return 0;
 }
