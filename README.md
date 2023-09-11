@@ -8,9 +8,10 @@
 | :--: | :--------------------------: | :-----------------: | :------:  |
 | 00 | Backtracking | 백트래킹 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/backtracking/README.md) |
 | 01 | BFS | BFS | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BFS/README.md) |
-| 02 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
-| 03 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
-| 04 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
+| 02 | Data Structure | 자료구조 | [(수정)바로가기]() |
+| 03 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
+| 04 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
+| 05 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
 
 ## 프로그래머스
 
