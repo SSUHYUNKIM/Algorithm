@@ -7,12 +7,12 @@
 ## 백준(Silver5)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
-| <a href="https://www.acmicpc.net/problem/1475" target="_blank">1475</a> | <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Silver/1475.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/1475" target="_blank">1475</a> | <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="">바로가기</a> |
 
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
-
+| <a href="https://www.acmicpc.net/problem/1158" target="_blank">1158</a> | <a href="https://www.acmicpc.net/problem/1158" target="_blank">요세푸스 문제</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="">바로가기</a> |
 
 ## 백준(Silver3)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
