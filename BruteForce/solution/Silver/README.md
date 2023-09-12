@@ -1,6 +1,6 @@
-# Math (수학)
+## Brute Force(완전탐색)
 
-[수학 메인으로 돌아가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md)
+[완전탐색 메인으로 돌아가기]()
 
 [메인으로 돌아가기](https://github.com/SSUHYUNKIM/Algorithm)
 
@@ -21,7 +21,6 @@
 ## 백준(Silver2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
-
 
 ## 백준(Silver1)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
