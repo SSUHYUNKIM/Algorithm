@@ -1,6 +1,6 @@
 ## Brute Force(완전탐색)
 
-[완전탐색 메인으로 돌아가기]()
+[완전탐색 메인으로 돌아가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BruteForce/README.md)
 
 [메인으로 돌아가기](https://github.com/SSUHYUNKIM/Algorithm)
 

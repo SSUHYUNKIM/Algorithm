@@ -8,7 +8,7 @@
 | :--: | :--------------------------: | :-----------------: | :------:  |
 | 00 | Backtracking | 백트래킹 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/backtracking/README.md) |
 | 01 | BFS | BFS | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BFS/README.md) |
-| 02 | Brute Force | 완전탐색 | [바로가기]() |
+| 02 | Brute Force | 완전탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BruteForce/README.md) |
 | 03 | Data Structure | 자료구조 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/README.md) |
 | 04 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
 | 05 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
