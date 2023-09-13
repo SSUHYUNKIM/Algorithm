@@ -67,7 +67,8 @@
       "map": "cpp",
       "queue": "cpp",
       "stack": "cpp",
-      "xtree": "cpp"
+      "xtree": "cpp",
+      "list": "cpp"
     },
     "java.home": "C:\\Program Files\\Java\\jdk-11.0.2",
     "C_Cpp.errorSquiggles": "Disabled"
