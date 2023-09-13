@@ -24,6 +24,7 @@
 ## 백준(Bronze3)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2455" target="_blank">2455</a> | <a href="https://www.acmicpc.net/problem/2455" target="_blank">지능형 기차</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2455.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2525" target="_blank">2525</a> | <a href="https://www.acmicpc.net/problem/2525" target="_blank">오븐 시계</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2525.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2576" target="_blank">2576</a> | <a href="https://www.acmicpc.net/problem/2576" target="_blank">홀수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2576.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2588" target="_blank">2588</a> | <a href="https://www.acmicpc.net/problem/2588" target="_blank">곱셈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/solution/Bronze/Bronze3/2588.cpp">바로가기</a> |
