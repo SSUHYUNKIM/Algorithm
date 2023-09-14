@@ -11,6 +11,7 @@
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/10845" target="_blank">10845</a> | <a href="https://www.acmicpc.net/problem/10845" target="_blank">키로거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/10845.cpp">바로가기</a> |
 
 
 ## 백준(Silver3)
