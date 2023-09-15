@@ -10,9 +10,10 @@
 | 01 | BFS | BFS | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BFS/README.md) |
 | 02 | Brute Force | 완전탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BruteForce/README.md) |
 | 03 | Data Structure | 자료구조 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/README.md) |
-| 04 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
-| 05 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
-| 06 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
+| 04 | 	Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/README.md) |
+| 05 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
+| 06 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
+| 07 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
 
 ## 프로그래머스
 
