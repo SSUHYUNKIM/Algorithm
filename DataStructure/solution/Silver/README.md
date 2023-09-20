@@ -31,6 +31,7 @@
 | <a href="https://www.acmicpc.net/problem/1406" target="_blank">1406</a> | <a href="https://www.acmicpc.net/problem/1406" target="_blank">에디터</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver2/1406.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a> | <a href="https://www.acmicpc.net/problem/1874" target="_blank">스택 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver2/1874.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/5397" target="_blank">5397</a> | <a href="https://www.acmicpc.net/problem/5397" target="_blank">키로거</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver2/5397.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/10799" target="_blank">10799</a> | <a href="https://www.acmicpc.net/problem/10799" target="_blank">쇠막대기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver2/10799.cpp">바로가기</a> |
 
 ## 백준(Silver1)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
