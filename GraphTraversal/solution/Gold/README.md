@@ -15,6 +15,7 @@
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/4179" target="_blank">4179</a> | <a href="https://www.acmicpc.net/problem/4179" target="_blank">불!</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/solution/Gold/Gold4/4179.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/5427" target="_blank">5427</a> | <a href="https://www.acmicpc.net/problem/5427" target="_blank">불</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/solution/Gold/Gold4/5427.cpp">바로가기</a> |
 
 
 ## 백준(Gold3)
