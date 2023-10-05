@@ -7,6 +7,7 @@
 ## 백준(Gold5)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/7569" target="_blank">7569</a> | <a href="https://www.acmicpc.net/problem/7569" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/solution/Gold/Gold5/7569.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a> | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/solution/Gold/Gold5/7576.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10026" target="_blank">10026</a> | <a href="https://www.acmicpc.net/problem/10026" target="_blank">적록색약 </a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/solution/Gold/Gold5/10026.cpp">바로가기</a> |
 
