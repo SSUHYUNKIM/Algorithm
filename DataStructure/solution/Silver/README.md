@@ -17,6 +17,7 @@
 | <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a> | <a href="https://www.acmicpc.net/problem/9012" target="_blank">괄호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/9012.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10845" target="_blank">10845</a> | <a href="https://www.acmicpc.net/problem/10845" target="_blank">큐</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/10845.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a> | <a href="https://www.acmicpc.net/problem/18258" target="_blank">큐 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/18258.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/28278" target="_blank">28278</a> | <a href="https://www.acmicpc.net/problem/28278" target="_blank">스택 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/28278.cpp">바로가기</a> |
 
 
 ## 백준(Silver3)
