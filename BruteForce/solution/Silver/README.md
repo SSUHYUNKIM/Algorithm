@@ -12,6 +12,7 @@
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1018" target="_blank">1018</a> | <a href="https://www.acmicpc.net/problem/1018" target="_blank">체스판 다시 칠하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/BruteForce/solution/Silver/Silver4/1018.cpp">바로가기</a> |
 
 
 ## 백준(Silver3)
