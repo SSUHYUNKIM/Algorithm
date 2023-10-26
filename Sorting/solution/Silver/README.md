@@ -7,6 +7,7 @@
 ## 백준(Silver5)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/14729" target="_blank">14729</a> | <a href="https://www.acmicpc.net/problem/14729" target="_blank">칠무해</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/solution/Silver/Silver5/14729.cpp">바로가기</a> |
 
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
