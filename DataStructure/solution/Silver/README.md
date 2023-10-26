@@ -38,3 +38,4 @@
 ## 백준(Silver1)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2841" target="_blank">2841</a> | <a href="https://www.acmicpc.net/problem/2841" target="_blank">외계인의 기타 연주</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver1/2841.cpp">바로가기</a> |
