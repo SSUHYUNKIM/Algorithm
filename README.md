@@ -16,6 +16,7 @@
 | 07 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
 | 08 | String | 문자열 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/String/README.md) |
 | 09 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
+| 10 | Etc | 기타 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Etc/README.md) |
 
 ## 프로그래머스
 
