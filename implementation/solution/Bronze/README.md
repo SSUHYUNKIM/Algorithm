@@ -49,6 +49,7 @@
 | <a href="https://www.acmicpc.net/problem/10804" target="_blank">10804</a> | <a href="https://www.acmicpc.net/problem/10804" target="_blank">카드 역배치</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/10804.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/10813" target="_blank">10813</a> | <a href="https://www.acmicpc.net/problem/10813" target="_blank">공 바꾸기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/10813.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/11328" target="_blank">11328</a> | <a href="https://www.acmicpc.net/problem/11328" target="_blank">공 바꾸기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/11328.cpp">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/25501" target="_blank">25501</a> | <a href="https://www.acmicpc.net/problem/25501" target="_blank">재귀의 귀재</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/solution/Bronze/Bronze2/25501.cpp">바로가기</a> |
 
 ## 백준(Bronze1)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
