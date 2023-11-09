@@ -10,13 +10,14 @@
 | 01 | BFS | BFS | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BFS/README.md) |
 | 02 | Brute Force | 완전탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/BruteForce/README.md) |
 | 03 | Data Structure | 자료구조 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/README.md) |
-| 04 | Dynamic Programming | 동적계획법 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/README.md) |
-| 05 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DP/README.md) |
-| 06 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
-| 07 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
-| 08 | String | 문자열 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/String/README.md) |
-| 09 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
-| 10 | Etc | 기타 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Etc/README.md) |
+| 04 | Divide and conquer | 분할정복 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DivideAndConquer/README.md) |
+| 05 | Dynamic Programming | 동적계획법 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/DP/README.md) |
+| 06 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/GraphTraversal/README.md) |
+| 07 | Implementation | 구현 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/implementation/README.md) |
+| 08 | Sorting | 정렬 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Sorting/README.md) |
+| 09 | String | 문자열 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/String/README.md) |
+| 10 | Math | 수학 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/math/README.md) |
+| 11 | Etc | 기타 | [바로가기](https://github.com/SSUHYUNKIM/Algorithm/blob/main/Etc/README.md) |
 
 ## 프로그래머스
 
