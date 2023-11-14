@@ -5,12 +5,12 @@ int N;
 
 void star(int i, int j, int n) 
 {
-	if ((i / n) % 3 == 1 && (j / n) % 3 == 1)
-		cout << " ";
-	else if (n / 3 == 0)
-		cout << "*";
-	else
-		star(i, j, n / 3);
+    if ((i / n) % 3 == 1 && (j / n) % 3 == 1)
+        cout << " ";
+    else if (n / 3 == 0)
+        cout << "*";
+    else    
+        star(i, j, n / 3);
 }
 
 int main()
