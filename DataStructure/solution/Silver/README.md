@@ -26,7 +26,7 @@
 | <a href="https://www.acmicpc.net/problem/1021" target="_blank">1021</a> | <a href="https://www.acmicpc.net/problem/1021" target="_blank">회전하는 큐 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver3/1021.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a> | <a href="https://www.acmicpc.net/problem/2346" target="_blank">풍선 터뜨리기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver3/2346.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12789" target="_blank">12789</a> | <a href="https://www.acmicpc.net/problem/12789" target="_blank">도키도키 간식드리미</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver3/12789.cpp">바로가기</a> |
-
+| <a href="https://www.acmicpc.net/problem/24511" target="_blank">24511</a> | <a href="https://www.acmicpc.net/problem/24511" target="_blank">queuestack</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver3/24511.cpp">바로가기</a> |
 
 ## 백준(Silver2)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
