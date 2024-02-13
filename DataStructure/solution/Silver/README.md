@@ -7,6 +7,7 @@
 ## 백준(Silver5)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/7785" target="_blank">7785</a> | <a href="https://www.acmicpc.net/problem/7785" target="_blank">회사에 있는 사람</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver5/7785.cpp">바로가기</a> |
 
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
