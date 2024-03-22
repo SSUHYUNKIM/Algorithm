@@ -12,6 +12,7 @@
 ## 백준(Silver4)
 |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |          
 | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1920" target="_blank">1920</a> | <a href="https://www.acmicpc.net/problem/1920" target="_blank">수 찾기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/1920.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a> | <a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/2164.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3986" target="_blank">3986</a> | <a href="https://www.acmicpc.net/problem/3986" target="_blank">좋은 단어</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/3986.cpp">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/4949" target="_blank">4949</a> | <a href="https://www.acmicpc.net/problem/4949" target="_blank">균형잡힌 세상</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/SSUHYUNKIM/Algorithm/blob/main/DataStructure/solution/Silver/Silver4/4949.cpp">바로가기</a> |
